@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taharehmanmalik&label=Profile%20views&color=0e75b6&style=flat" alt="taharehmanmalik" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+  .🔭 I’m  working as a MERN Developer
 
-- 📫 How to reach me **rehmantaha588@gmail.com**
+  .👯 I’m looking to collaborate other developers.
+
+  .🌱 I’m currently learning **Javascript**
+
+  .📫 How to reach me **rehmantaha588@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
