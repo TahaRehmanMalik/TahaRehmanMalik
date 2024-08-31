@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taharehmanmalik&" alt="taharehmanmalik" /></p>
 
-<p>![](https://leetcard.jacoblin.cool/Taha Rehman?ext=heatmap)</p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Taha Rehman?ext=heatmap)
