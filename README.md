@@ -5,8 +5,6 @@
 
   .👯 I’m looking to collaborate other developers.
 
-  .🌱 I’m currently learning **Javascript**
-
   .📫 How to reach me **rehmantaha588@gmail.com**
 
 
