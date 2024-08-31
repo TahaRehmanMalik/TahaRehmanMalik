@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taharehmanmalik&label=Profile%20views&color=0e75b6&style=flat" alt="taharehmanmalik" /> </p>
-
   .🔭 I’m  working as a MERN Developer
 
   .👯 I’m looking to collaborate other developers.
