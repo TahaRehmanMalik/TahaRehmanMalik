@@ -16,4 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taharehmanmalik&show_icons=true&locale=en" alt="taharehmanmalik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taharehmanmalik&" alt="taharehmanmalik" /></p>
-![](https://leetcard.jacoblin.cool/Taha Rehman?ext=heatmap)
+
+<p>![](https://leetcard.jacoblin.cool/Taha Rehman?ext=heatmap)</p>
